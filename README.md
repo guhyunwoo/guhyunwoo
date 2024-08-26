@@ -1,4 +1,5 @@
-## Hi there 👋
+## 백엔드 개발하고있는 구현우입니다.
+## 같이 프로젝트 하고싶어요.
 
 <!--
 **guhyunwoo/guhyunwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
