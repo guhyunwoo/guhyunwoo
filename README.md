@@ -21,8 +21,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 이런 언어를 사용하고 있어요. </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhyunwoo&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> <img src="https://github-readme-stats.vercel.app/api?username=guhyunwoo&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-         />  <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghw0327" />
+           /> <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghw0327" />
     </div> 
     </div>
     
